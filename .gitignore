@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# uv virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Solutions folder
+solutions/
+
+# AWS
+.aws/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# Data files that should not be committed
+quazyilx0.parquet
+quazyilx1.parquet
+quazyilx2.parquet
+quazyilx*.parquet
+
