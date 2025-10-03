@@ -1,0 +1,8 @@
+{
+  "created_by": "parquet-cpp-arrow version 7.0.0",
+  "num_columns": 19,
+  "num_rows": 1369769,
+  "num_row_groups": 1,
+  "format_version": "1.0",
+  "serialized_size": 10382
+}
